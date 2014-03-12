@@ -1,3 +1,4 @@
 name: lidongkai's blog
 markdown: redcarpet
 pygments: true
+disqus: ldkmsg
